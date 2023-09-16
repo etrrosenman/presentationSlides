@@ -1,0 +1,82 @@
+\begin{thebibliography}{}
+
+\bibitem[Armstrong et~al., 2020]{armstrong2020robust}
+Armstrong, T.~B., Koles{\'a}r, M., and Plagborg-Moller, M. (2020).
+\newblock Robust empirical bayes confidence intervals.
+\newblock {\em arXiv preprint arXiv:2004.03448}.
+
+\bibitem[Bao and Kan, 2013]{bao2013moments}
+Bao, Y. and Kan, R. (2013).
+\newblock On the moments of ratios of quadratic forms in normal random
+  variables.
+\newblock {\em Journal of Multivariate Analysis}, 117:229--245.
+
+\bibitem[Chen et~al., 2021]{chen2021minimax}
+Chen, S., Zhang, B., and Ye, T. (2021).
+\newblock Minimax rates and adaptivity in combining experimental and
+  observational data.
+\newblock {\em arXiv preprint arXiv:2109.10522}.
+
+\bibitem[Green and Strawderman, 1991]{green1991james}
+Green, E.~J. and Strawderman, W.~E. (1991).
+\newblock A {J}ames-{S}tein type estimator for combining unbiased and possibly
+  biased estimators.
+\newblock {\em Journal of the American Statistical Association},
+  86(416):1001--1006.
+
+\bibitem[Green et~al., 2005]{green2005improved}
+Green, E.~J., Strawderman, W.~E., Amateis, R.~L., and Reams, G.~A. (2005).
+\newblock Improved estimation for multiple means with heterogeneous variances.
+\newblock {\em Forest Science}, 51(1):1--6.
+
+\bibitem[Hoff and Yu, 2019]{hoff2019exact}
+Hoff, P. and Yu, C. (2019).
+\newblock Exact adaptive confidence intervals for linear regression
+  coefficients.
+\newblock {\em Electronic Journal of Statistics}, 13:94--119.
+
+\bibitem[Li et~al., 1985]{li1985stein}
+Li, K.-C. et~al. (1985).
+\newblock From {S}tein's unbiased risk estimates to the method of generalized
+  cross validation.
+\newblock {\em The Annals of Statistics}, 13(4):1352--1377.
+
+\bibitem[Roehm, 2015]{roehm2015reappraisal}
+Roehm, E. (2015).
+\newblock A reappraisal of {W}omen's {H}ealth {I}nitiative estrogen-alone
+  trial: long-term outcomes in women 50--59 years of age.
+\newblock {\em Obstetrics and Gynecology International}, 2015.
+
+\bibitem[Rosenbaum, 1987]{rosenbaum1987sensitivity}
+Rosenbaum, P.~R. (1987).
+\newblock Sensitivity analysis for certain permutation inferences in matched
+  observational studies.
+\newblock {\em Biometrika}, 74(1):13--26.
+
+\bibitem[Stein, 1956]{stein1956inadmissibility}
+Stein, C. (1956).
+\newblock Inadmissibility of the usual estimator for the mean of a multivariate
+  normal distribution.
+\newblock Technical report, Stanford University Stanford United States.
+
+\bibitem[Tan, 2006]{tan2006distributional}
+Tan, Z. (2006).
+\newblock A distributional approach for causal inference using propensity
+  scores.
+\newblock {\em Journal of the American Statistical Association},
+  101(476):1619--1637.
+
+\bibitem[Xie et~al., 2012]{xie2012sure}
+Xie, X., Kou, S., and Brown, L.~D. (2012).
+\newblock Sure estimates for a heteroscedastic hierarchical model.
+\newblock {\em Journal of the American Statistical Association},
+  107(500):1465--1479.
+
+\bibitem[Zhao et~al., 2019]{zhao2019sensitivity}
+Zhao, Q., Small, D.~S., and Bhattacharya, B.~B. (2019).
+\newblock Sensitivity analysis for inverse probability weighting estimators via
+  the percentile bootstrap.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}.
+
+\end{thebibliography}

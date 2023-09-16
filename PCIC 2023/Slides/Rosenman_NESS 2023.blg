@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Rosenman_NESS 2023.aux
+The style file: apalike.bst
+Database file #1: rct+odb.bib
+You've used 10 entries,
+            1935 wiz_defined-function locations,
+            543 strings with 5569 characters,
+and the built_in function-call counts, 3736 in all, are:
+= -- 377
+> -- 126
+< -- 7
++ -- 46
+- -- 40
+* -- 317
+:= -- 661
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 70
+chr.to.int$ -- 10
+cite$ -- 10
+duplicate$ -- 135
+empty$ -- 270
+format.name$ -- 55
+if$ -- 715
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 9
+newline$ -- 53
+num.names$ -- 30
+pop$ -- 45
+preamble$ -- 1
+purify$ -- 69
+quote$ -- 0
+skip$ -- 108
+stack$ -- 0
+substring$ -- 307
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 0
+while$ -- 34
+width$ -- 0
+write$ -- 131

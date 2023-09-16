@@ -1,0 +1,7 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Assumptions and Loss Function}{4}{0}{1}
+\beamer@sectionintoc {2}{Inference}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Positing Shrinkage Structure}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Using a Hierarchical Model}{22}{0}{2}
+\beamer@sectionintoc {3}{Application to the WHI}{36}{0}{3}
+\beamer@sectionintoc {4}{Experimental Design}{39}{0}{4}

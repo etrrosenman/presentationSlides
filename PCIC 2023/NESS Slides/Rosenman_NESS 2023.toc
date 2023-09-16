@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Assumptions and Loss Function}{6}{0}{1}
+\beamer@sectionintoc {2}{Inference}{13}{0}{2}
+\beamer@sectionintoc {3}{Experimental Design}{24}{0}{3}
+\beamer@sectionintoc {4}{Application to the WHI}{37}{0}{4}
